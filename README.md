@@ -1,4 +1,4 @@
-# Allure Report with history action
+# Allure Report with history action----
 
 Generates Allure Report with history.
 
